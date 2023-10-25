@@ -33,8 +33,7 @@
 
 backend End React-redux app link 
 
-https://github.com/tjay1760/hello-rails-back-end.git
-
+https://github.com/tjay1760/Hello-rails-backend/tree/application
 
 ## 🛠 Built With <a name="built-with"></a>
 
