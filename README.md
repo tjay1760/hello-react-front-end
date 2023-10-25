@@ -31,13 +31,10 @@
 
 **Hello rails front end app:** This project employs a react and redux front end app  to a back end app which include Ruby on Rails api app with PostgreSQL database as tech. This project is to practice creating two applications using for both front end and back end. This contains random greeting to the user. 📚
 
-Front End React-redux app link 
+backend End React-redux app link 
 
-https://github.com/tjay1760/hello-react-front-end.git
+https://github.com/tjay1760/hello-rails-back-end.git
 
-# Screenshots
-
-![Alt text](image.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
